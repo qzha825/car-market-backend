@@ -6,15 +6,12 @@
 /Users/zq/used-car-market/CarMarketSystem/CarMarketBackend/bin/Debug/net10.0/CarMarketBackend.runtimeconfig.json
 /Users/zq/used-car-market/CarMarketSystem/CarMarketBackend/bin/Debug/net10.0/CarMarketBackend.dll
 /Users/zq/used-car-market/CarMarketSystem/CarMarketBackend/bin/Debug/net10.0/CarMarketBackend.pdb
-/Users/zq/used-car-market/CarMarketSystem/CarMarketBackend/bin/Debug/net10.0/Microsoft.AspNetCore.OpenApi.dll
-/Users/zq/used-car-market/CarMarketSystem/CarMarketBackend/bin/Debug/net10.0/Microsoft.OpenApi.dll
 /Users/zq/used-car-market/CarMarketSystem/CarMarketBackend/obj/Debug/net10.0/CarMarketBackend.csproj.AssemblyReference.cache
 /Users/zq/used-car-market/CarMarketSystem/CarMarketBackend/obj/Debug/net10.0/rpswa.dswa.cache.json
 /Users/zq/used-car-market/CarMarketSystem/CarMarketBackend/obj/Debug/net10.0/CarMarketBackend.GeneratedMSBuildEditorConfig.editorconfig
 /Users/zq/used-car-market/CarMarketSystem/CarMarketBackend/obj/Debug/net10.0/CarMarketBackend.AssemblyInfoInputs.cache
 /Users/zq/used-car-market/CarMarketSystem/CarMarketBackend/obj/Debug/net10.0/CarMarketBackend.AssemblyInfo.cs
 /Users/zq/used-car-market/CarMarketSystem/CarMarketBackend/obj/Debug/net10.0/CarMarketBackend.csproj.CoreCompileInputs.cache
-/Users/zq/used-car-market/CarMarketSystem/CarMarketBackend/obj/Debug/net10.0/CarMarketBackend.MvcApplicationPartsAssemblyInfo.cs
 /Users/zq/used-car-market/CarMarketSystem/CarMarketBackend/obj/Debug/net10.0/CarMarketBackend.MvcApplicationPartsAssemblyInfo.cache
 /Users/zq/used-car-market/CarMarketSystem/CarMarketBackend/obj/Debug/net10.0/rjimswa.dswa.cache.json
 /Users/zq/used-car-market/CarMarketSystem/CarMarketBackend/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
@@ -188,3 +185,4 @@
 /Users/zq/used-car-market/CarMarketSystem/CarMarketBackend/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 /Users/zq/used-car-market/CarMarketSystem/CarMarketBackend/bin/Debug/net10.0/Microsoft.IdentityModel.Tokens.dll
 /Users/zq/used-car-market/CarMarketSystem/CarMarketBackend/bin/Debug/net10.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/zq/used-car-market/CarMarketSystem/CarMarketBackend/obj/Debug/net10.0/CarMarketBackend.sourcelink.json
