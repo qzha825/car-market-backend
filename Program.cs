@@ -27,10 +27,13 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowReactApp", policy =>
     {
-        policy.WithOrigins("http://localhost:5173")
+        policy.WithOrigins(
+                "http://localhost:5173", // 本地 Vite 默认端口
+                "https://car-market-frontend.onrender.com" // 生产前端
+              )
               .AllowAnyHeader()
               .AllowAnyMethod()
-              .AllowCredentials();   // 必须！
+              .AllowCredentials();   // 如果使用 cookie 或身份验证
     });
 });
 
