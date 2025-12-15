@@ -3,11 +3,11 @@ FROM mcr.microsoft.com/dotnet/sdk:10.0 AS build
 WORKDIR /app
 
 COPY *.sln .
-COPY CarMarketBackend/*.csproj ./CarMarketBackend/
-RUN dotnet restore CarMarketBackend/CarMarketBackend.csproj
+COPY *.csproj .
+RUN dotnet restore CarMarketBackend.csproj
 
 COPY . .
-RUN dotnet publish CarMarketBackend/CarMarketBackend.csproj -c Release -o /out
+RUN dotnet publish CarMarketBackend.csproj -c Release -o /out
 
 # Runtime stage
 FROM mcr.microsoft.com/dotnet/aspnet:10.0
