@@ -4,7 +4,14 @@ using System.Text;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 
-var builder = WebApplication.CreateBuilder(args);
+var builder = WebApplication.CreateBuilder(new WebApplicationOptions
+{
+    Args = args,
+    ContentRootPath = AppContext.BaseDirectory,
+    // 禁用配置文件热重载
+    // UseWebRoot = false,
+});
+builder.Configuration.AddJsonFile("appsettings.json", optional: false, reloadOnChange: false);
 
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 
