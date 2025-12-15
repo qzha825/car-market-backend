@@ -27,6 +27,9 @@ builder.Services.AddCors(options =>
     });
 });
 
+var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
+builder.WebHost.UseUrls($"http://*:{port}");
+
 // JWT
 var key = builder.Configuration["JwtSettings:Key"];
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)

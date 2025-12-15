@@ -47,6 +47,9 @@
 /Users/zq/used-car-market/CarMarketSystem/CarMarketBackend/out/BuildHost-netcore/zh-Hant/System.CommandLine.resources.dll
 /Users/zq/used-car-market/CarMarketSystem/CarMarketBackend/out/out/BuildHost-net472/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe.config
 /Users/zq/used-car-market/CarMarketSystem/CarMarketBackend/out/out/BuildHost-netcore/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll.config
+/Users/zq/used-car-market/CarMarketSystem/CarMarketBackend/out/out/out/BuildHost-net472/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe.config
+/Users/zq/used-car-market/CarMarketSystem/CarMarketBackend/out/out/out/BuildHost-netcore/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll.config
+/Users/zq/used-car-market/CarMarketSystem/CarMarketBackend/out/out/out/web.config
 /Users/zq/used-car-market/CarMarketSystem/CarMarketBackend/out/out/web.config
 /Users/zq/used-car-market/CarMarketSystem/CarMarketBackend/out/appsettings.Development.json
 /Users/zq/used-car-market/CarMarketSystem/CarMarketBackend/out/appsettings.json
@@ -59,6 +62,14 @@
 /Users/zq/used-car-market/CarMarketSystem/CarMarketBackend/out/out/CarMarketBackend.runtimeconfig.json
 /Users/zq/used-car-market/CarMarketSystem/CarMarketBackend/out/out/CarMarketBackend.staticwebassets.endpoints.json
 /Users/zq/used-car-market/CarMarketSystem/CarMarketBackend/out/out/cars.json
+/Users/zq/used-car-market/CarMarketSystem/CarMarketBackend/out/out/out/appsettings.Development.json
+/Users/zq/used-car-market/CarMarketSystem/CarMarketBackend/out/out/out/appsettings.json
+/Users/zq/used-car-market/CarMarketSystem/CarMarketBackend/out/out/out/BuildHost-netcore/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.deps.json
+/Users/zq/used-car-market/CarMarketSystem/CarMarketBackend/out/out/out/BuildHost-netcore/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.runtimeconfig.json
+/Users/zq/used-car-market/CarMarketSystem/CarMarketBackend/out/out/out/CarMarketBackend.deps.json
+/Users/zq/used-car-market/CarMarketSystem/CarMarketBackend/out/out/out/CarMarketBackend.runtimeconfig.json
+/Users/zq/used-car-market/CarMarketSystem/CarMarketBackend/out/out/out/CarMarketBackend.staticwebassets.endpoints.json
+/Users/zq/used-car-market/CarMarketSystem/CarMarketBackend/out/out/out/cars.json
 /Users/zq/used-car-market/CarMarketSystem/CarMarketBackend/out/CarMarketBackend.dll
 /Users/zq/used-car-market/CarMarketSystem/CarMarketBackend/out/CarMarketBackend.runtimeconfig.json
 /Users/zq/used-car-market/CarMarketSystem/CarMarketBackend/out/CarMarketBackend.pdb
