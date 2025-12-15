@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "Brand": "Toyota",
+    "Model": "Corolla",
+    "Year": 2016,
+    "Mileage": 85000,
+    "Price": 10500,
+    "Image": "https://picsum.photos/400?1"
+  },
+  {
+    "Id": 2,
+    "Brand": "Honda",
+    "Model": "Civic",
+    "Year": 2018,
+    "Mileage": 65000,
+    "Price": 13000,
+    "Image": "https://picsum.photos/400?2"
+  }
+]
