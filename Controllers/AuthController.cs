@@ -69,4 +69,11 @@ public class AuthController : ControllerBase
             role = user.Role
         });
     }
+    
+    [HttpPost("health")]
+    public async Task<IActionResult> Health([FromBody] User login)
+    {
+
+        return Ok("ok");
+    }
 }
